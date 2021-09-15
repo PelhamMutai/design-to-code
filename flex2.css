@@ -7,7 +7,7 @@ body{
 }
 .container{
     flex-basis: 100vw;
-    height: 100vh;
+   height:  200vh;
     /* background-color: #f9fafb; */
 }
 .menubar{
@@ -22,7 +22,7 @@ padding-left: 10px;
 }
 .items{
 display: flex;
-height: 100vh;
+height: 200vh;
 }
 .profile{
 flex-basis: 15vw;

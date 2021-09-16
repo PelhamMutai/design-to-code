@@ -30,6 +30,7 @@ font-size: small;
 padding: 14px;
 /* margin-left: 25px; */
 /* margin-top: 18px; */
+padding-left: 25px;
 }
 .profileinfo{
     display: flex;
@@ -63,6 +64,7 @@ padding: 14px;
     /* margin-right: 25px; */
     /* margin-top: 24px; */
     padding: 14px;
+    padding-right: 25px;
     }
 .activitydetails{
 display: flex;

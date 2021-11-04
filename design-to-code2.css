@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+}
+.content{
+    width: 100vw;
+    height: 100vh;
+}
+.menubar{
+    width: 100vw;
+    height: 40px;
+    background: blue;
+    display: flex;
+    align-items: center;
+}
+.menu_details{
+    display: flex;
+    flex: 2;
+    justify-content:space-between ;
+}
+.logo{
+    flex: 1;
+}
+.search{
+    flex: 3;
+}
+.items{
+    display: flex;
+    /* width: 100vw; */
+}
+.side_content{
+    border: 2px solid black;
+    /* width: 250px; */
+    height: 500px;
+    flex: 1;
+    padding-left: 7px;
+}
+.user_info{
+    display: flex;
+}
+.git_image{
+    padding-right: 5px;
+}
+.new_projects{
+    width: 160px;
+}
+.team{
+    width: 160px;
+}
+.main{
+    border: 2px solid black;
+    /* width: 250px; */
+    height: 500px;
+    flex: 3;
+}
+.activity{
+    border: 2px solid black;
+    /* width: 250px; */
+    height: 500px;
+    flex: 2;
+}
+.profile_details{
+    display: flex;
+}
